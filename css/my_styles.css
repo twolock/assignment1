@@ -31,7 +31,7 @@
 
 /* Set all elements within the bottom SVG with class "point" to not be visible */
 #bottom-svg .point{
-    opacity:0;
+    opacity:0.0;
 }
 
 
